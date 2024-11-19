@@ -250,7 +250,7 @@
  trait_honest: "[Select_CString(ROOT.GetCharacter.IsFemale, 'Honesta', 'Honesto')]"
  trait_honest_desc: "Este personaje valora mucho la verdad y la sinceridad."
  trait_honest_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] valora mucho la verdad y la sinceridad."
- trait_craven: "Pusilánime"
+ trait_craven: "Cobarde"
  trait_craven_desc: "Este personaje no disfruta en absoluto cuando le desafían o asustan."
  trait_craven_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] no disfruta en absoluto cuando le desafían o asustan."
  trait_brave: "Valiente"

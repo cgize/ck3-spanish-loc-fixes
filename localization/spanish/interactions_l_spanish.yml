@@ -508,7 +508,7 @@
  BLACKMAIL_MAJOR_SECRET_ACCEPTANCE: "Secreto importante: $VALUE|=+0$"
  BLACKMAIL_INTERACTION_BRAVE_ACCEPTANCE: "[recipient.GetShortUIName] es valiente: $VALUE|=+0$"
  BLACKMAIL_INTERACTION_ARROGANT_ACCEPTANCE: "[recipient.GetShortUIName] es arrogante: $VALUE|=+0$"
- BLACKMAIL_INTERACTION_CRAVEN_ACCEPTANCE: "[recipient.GetShortUIName] es pusilánime: $VALUE|=+0$"
+ BLACKMAIL_INTERACTION_CRAVEN_ACCEPTANCE: "[recipient.GetShortUIName] es cobarde: $VALUE|=+0$"
  BLACKMAIL_INTERACTION_PARANOID_ACCEPTANCE: "[recipient.GetShortUIName] sufre de paranoia: $VALUE|=+0$"
  BLACKMAIL_NOTIFICATION_SECRET_ILLEGITIMATE_CHILD_ACTOR: "\nSé que [father.GetShortUIName] no es el verdadero padre [secret_target.GetShortUIName], ¡soy yo!"
  BLACKMAIL_NOTIFICATION_SECRET_ILLEGITIMATE_CHILD_OTHER: "\nSé que [father.GetShortUIName] no es el verdadero padre de [secret_target.GetShortUIName], ¡sino [secret_target.GetRealFather.GetShortUIName]!"

@@ -14,7 +14,7 @@
  fp1_trade_events.0002.b: "Una tregua con el [county.GetHolder.GetTopLiege.GetTitleAsNameNoTooltip] podría ser inestimable…"
  fp1_trade_events.0002.c: "Sí, probablemente #EMP podríamos#! sacar dinero comerciando. Pero saquearemos igual."
  fp1_trade_events.0002.c.tt: "$fp1_trade_events.0002.a.tt$"
- fp1_trade_events.0002.d: "¿Qué clase de cobardica #EMP feudal#! pusilánime gana dinero sin asaltar?"
+ fp1_trade_events.0002.d: "¿Qué clase de cobarde #EMP feudal#! de sangre débil gana dinero sin saquear?"
  fp1_trade_events.0002.d.tt: "Saqueas [county.GetNameNoTierNoTooltip] y nunca más en la vida pensarás en comerciar en lugar de asaltar"
  fp1_trade_events.0003.t: "¿$fp1_trade_events.0000.t$?"
  fp1_trade_events.0003.desc: "¡Una horda desordenada de bandidos, piratas y otros sinvergüenzas armados hasta los dientes ha entrado en [county.GetNameNoTierNoTooltip], liderada por [raider.GetFirstName]!\n\nAl principio, mis exploradores pensaron que estaban aquí para saquear, pero un emisario de su [raider.GetTitleAsNameNoTooltip] afirma que estarían en encantados de comerciar. Sus fuerzas son ricas en botines nuevos y viejos y le daría a los lugareños la oportunidad de comprar productos exóticos de todo el mundo.\n\nEl sentido implícito está claro: si llegamos a un buen acuerdo se irán en paz; si rechazamos su oferta, tomarán lo que deseen."
