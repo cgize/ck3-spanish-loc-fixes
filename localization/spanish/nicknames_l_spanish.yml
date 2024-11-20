@@ -1283,3 +1283,8 @@
  nick_lackland_old_desc: "Cuán lamentable ha de ser para [Select_CString( CHARACTER.IsLocalPlayer, 'ti', CHARACTER.GetShortUINameNoTooltipNoFormat )] llegar a [Select_CString( CHARACTER.IsLocalPlayer, 'hacerte', 'hacerse' )] con la posesión de un patrimonio tan grande, solo para perder gran parte. Y cuán profético [Select_CString( CHARACTER.IsLocalPlayer, 'tu', 'su' )] epíteto."
  nick_curtmantle: "Mantocorto"
  nick_curtmantle_desc: "[CHARACTER.GetWomanMan] práctic[CHARACTER.Custom('ES_OA')], [CHARACTER.GetShortUINameNoTooltipNoFormat] [Select_CString( CHARACTER.IsLocalPlayer, 'eres', 'es' )] célebre por preferir las capas de viaje cortas en lugar de asuntos más floridos o elaborados."
+ #BP3
+ nick_pauper_king: "[Select_CString( CHARACTER.IsFemale, 'la Reina', 'el Rey' )] Convidador[CHARACTER.Custom('ES_XA')]"
+ nick_pauper_king_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [Select_CString( CHARACTER.IsLocalPlayer, 'eres', 'es' )] célebre por esa tendencia [Select_CString( CHARACTER.IsLocalPlayer, 'tuya', 'suya' )] a beber con los lugareños de [Select_CString( CHARACTER.IsLocalPlayer, 'tus', 'sus' )] pueblos y ciudades."
+ nick_the_mapmaker: "[CHARACTER.Custom('ES_ElLa')] Cartógraf[CHARACTER.Custom('ES_OA')]"
+ nick_the_mapmaker_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [Select_CString( CHARACTER.IsLocalPlayer, 'eres', 'es' )] célebre por haber viajado mucho, pero también por pasar un tiempo considerable trazando mapas de las áreas que [Select_CString( CHARACTER.IsLocalPlayer, 'has', 'ha' )] visitado."

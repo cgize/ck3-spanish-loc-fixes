@@ -12,6 +12,7 @@
  #Province Description
  activity_pilgrimage_province_unvisited_desc: "\n#positive_value + Lugar sagrado no visitado#!"
  activity_pilgrimage_province_unique_desc: "\n#positive_value + Lugar sagrado [GetPlayer.GetFaith.GetAdherentNameNoTooltip] único#!"
+ activity_pilgrimage_province_desc_inspection_modifier: "\n#positive_value ++ Lugar sagrado protegido #!"
  #Pros/Cons + Cost at the end
  activity_pilgrimage_province_desc: "Comienzas una peregrinación a [ROOT.Province.GetName]\nLa distancia afecta a los costes y las recompensas"
  activity_pilgrimage_province_very_short_desc: "\n#positive_value + Distancia muy corta#!\n\nCoste adicional: ninguno"

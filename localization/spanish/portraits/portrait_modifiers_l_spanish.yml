@@ -1532,3 +1532,5 @@
  alto_flute_idle: "Sosteniendo una flauta alto"
  alto_flute_active: "Tocando la flauta alto"
  dead: "Muerto"
+ survey_staff: "Inspeccionando con un bastón para caminar"
+ holding_staff: "Sosteniendo un bastón para caminar"

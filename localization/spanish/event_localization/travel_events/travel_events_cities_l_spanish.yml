@@ -80,5 +80,6 @@
  AQUEDUCT_OF_VALENS_GLOSS: "El #EMP acueducto de Valente#! se construyó en el siglo IV y siguió suministrando agua dulce a la ciudad de Constantinopla durante más de mil años. Una combinación de cisternas al aire libre y otras enormes subterráneas permiten que la ciudad acumule más de un millón de metros cúbicos de agua."
  SOLIDUS: "[Glossary( 'Sólido', 'BYZANTINE_COINAGE_GLOSS')]"
  HYPERPYRON: "[Glossary( 'Hiperpirón', 'BYZANTINE_COINAGE_GLOSS')]"
+ FALLBACK_COIN: "moneda"
  travel_city_well_supplied: "Bien abastecido"
  travel_city_well_supplied_desc: "Este personaje se ha surtido recientemente de todo lo necesario para viajar."
